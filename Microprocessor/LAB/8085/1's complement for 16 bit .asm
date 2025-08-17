@@ -1,5 +1,5 @@
 
-;<Sujal Meher Kayastha>
+;<Upendra Rawal>
 ;1's complement for 16 bit
 
 jmp start
